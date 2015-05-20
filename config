@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/ircus/Getting_and_Clening_Data_Course_Project
+	fetch = +refs/heads/*:refs/remotes/origin/*
